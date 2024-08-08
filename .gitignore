@@ -22,6 +22,10 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+### idea ###
+.idea
+Anudin_Foundation.iml
+
 ### VS Code ###
 .vscode/
 
