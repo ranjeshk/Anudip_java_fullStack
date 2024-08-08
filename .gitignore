@@ -23,8 +23,8 @@ bin/
 /.nb-gradle/
 
 ### idea ###
-.idea
-Anudin_Foundation.iml
+.idea/
+Anudin_Foundation.iml/
 
 ### VS Code ###
 .vscode/
